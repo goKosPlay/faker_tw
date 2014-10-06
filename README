@@ -1,0 +1,3 @@
+自己擴充一個台灣繁體語系檔案。<br/>
+原始作者專案放置路徑在: https://github.com/fzaninotto/Faker<br/>
+利用composer加入原始作者的faker，並且下載加入台灣語系版本，此檔案夾加入到vendor/faker/src/Provider/zh_TW 即可。<br/>
